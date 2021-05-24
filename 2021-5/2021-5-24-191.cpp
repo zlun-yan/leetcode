@@ -3,6 +3,7 @@
 //
 
 // hoho 这个题目挺有意思的
+// hamming 汉明法
 #include <cstdio>
 #include <cstdint>
 
